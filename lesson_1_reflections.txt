@@ -1,0 +1,34 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Blah bla blaah.
+    What have I become,
+    My sweetest friend..
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+  Asd sdaklk. Aasdj bnjlaskjgij  sjd. ASdf dg adg dddddddddgggggggggggggggg dggggggggggggg
+
+    
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    When you've updated your document, click "Next" and Sarah will go over another difference between version control systems.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+ When you've updated your document, click "Next", and an experienced Git user will share why version control is useful to him. Blah Blah
+
+How can you use the commands git log and git diff to view the history of files?
+
+   When you've updated your document, click "Next" to add more concepts to your map with Sarah. Then you'll learn how to use Git to return to previous versions of your files.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    dfg asd aeta f19cb1b80fe27e938e4d72770ca0a42f25e99ecc
+    sdfs Afdas
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
